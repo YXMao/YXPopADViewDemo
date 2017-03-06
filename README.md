@@ -18,4 +18,4 @@
 }
 ```
 
-![YXMao](https://github.com/YXMao/YXPopADViewDemo/raw/master/.gitignore)
+![YXMao](https://github.com/YXMao/YXPopADViewDemo/raw/master/demo.gif)
